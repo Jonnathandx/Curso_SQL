@@ -1,2 +1,2 @@
-select min(age)  from programadores;
-select max(age)  from programadores;
+select min(age)  from "Programadores";
+select max(age)  from "Programadores";

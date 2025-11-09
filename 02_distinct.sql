@@ -1,1 +1,1 @@
-select distinct language from programadores;
+select distinct language from "Programadores";

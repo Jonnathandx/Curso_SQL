@@ -1,1 +1,1 @@
-select * from programadores;
+select * from "Programadores";

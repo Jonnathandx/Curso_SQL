@@ -1,0 +1,1 @@
+select * from programadores where age in (22, 25);

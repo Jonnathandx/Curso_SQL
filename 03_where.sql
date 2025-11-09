@@ -1,2 +1,2 @@
-select * from programadores
+select * from "Programadores"
 where city = 'Cuenca';

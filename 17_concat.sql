@@ -1,0 +1,1 @@
+SELECT concat(name,' ', last_name) AS "Programadores", age FROM "Programadores"

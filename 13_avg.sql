@@ -1,1 +1,1 @@
-select avg(age) from programadores;
+select avg(age) from "Programadores";

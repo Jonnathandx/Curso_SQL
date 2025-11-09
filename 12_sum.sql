@@ -1,1 +1,1 @@
-SELECT sum(age) from programadores;
+SELECT sum(age) from "Programadores";

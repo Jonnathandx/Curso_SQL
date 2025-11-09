@@ -1,0 +1,1 @@
+SELECT name, IFNULL(age, 0) FROM "Programadores";

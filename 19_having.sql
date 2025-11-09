@@ -1,0 +1,1 @@
+SELECT COUNT(age) FROM "Programadores" HAVING COUNT(age) > 99;
