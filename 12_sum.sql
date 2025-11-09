@@ -1,0 +1,1 @@
+SELECT sum(age) from programadores;
