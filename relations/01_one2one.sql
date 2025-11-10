@@ -1,0 +1,14 @@
+CREATE TABLE users (
+    "id" SERIAL PRIMARY KEY NOT NULL,
+    "name" VARCHAR(20) NOT NULL,
+    "lastname" VARCHAR(20) NOT NULL,
+    "age" INT NOT NULL,
+    "email" VARCHAR(50) NOT NULL UNIQUE
+);
+
+CREATE TABLE "CI" (
+    "id" SERIAL PRIMARY KEY NOT NULL,
+    "number" INTEGER UNIQUE NOT NULL,
+    FOREIGN KEY (id) REFERENCES users(id)
+    ON DELETE CASCADE
+)

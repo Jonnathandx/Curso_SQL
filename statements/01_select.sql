@@ -1,1 +1,3 @@
-select * from "Programadores";
+SELECT * FROM users;
+
+SELECT * FROM "CI";
