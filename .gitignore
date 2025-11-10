@@ -1,2 +1,3 @@
 # Se excluye el archivo de variables de entorno
 .env
+*.csv
